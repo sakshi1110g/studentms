@@ -12,7 +12,7 @@ const con = mysql.createConnection({
   host: "sql12.freesqldatabase.com",
   user: "sql12820108",
   password: "BU3RnKZeKb",
-  database: "sfs15march26"
+  database: "sql12820108"
 });
 
 
